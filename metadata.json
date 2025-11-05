@@ -1,0 +1,5 @@
+{
+  "name": "Forked AI Bid Analyzer for Satewave",
+  "description": "An AI-powered tool to analyze tender documents and RFPs, providing structured insights to determine relevance and fit for Satewave Technologies.",
+  "requestFramePermissions": []
+}
